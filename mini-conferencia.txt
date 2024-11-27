@@ -1,0 +1,7 @@
+Seguranca em aplicacoes web 60min
+Automatizando processos com Python 45min
+Boas praticas de JavaScript lightning
+Tecnicas avançadas de CSS 30min
+Introducao ao TypeScript 45min
+Testes unitarios em Swift 30min
+Otimizando queries no MongoDB 45min
